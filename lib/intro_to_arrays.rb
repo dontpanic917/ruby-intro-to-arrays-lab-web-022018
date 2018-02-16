@@ -10,3 +10,4 @@ end
 
 def first_element(array)
   return array.unshift
+end
